@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BubblyNet Test</string>
+    <string name="username_label">Username: %s</string>
+    <string name="email_label">Email: %s</string>
+</resources>
