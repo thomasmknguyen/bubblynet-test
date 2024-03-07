@@ -2,4 +2,5 @@
     <string name="app_name">BubblyNet Test</string>
     <string name="username_label">Username: %s</string>
     <string name="email_label">Email: %s</string>
+    <string name="add_user_button_label">Add User</string>
 </resources>
